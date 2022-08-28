@@ -1,0 +1,9 @@
+Can use JSON file to store project details .
+ This will help to update in future 
+
+Color Pallete is there in figma .
+use illustrators.
+Make sure to keep it dynamic for future updates.
+Check the document name .
+Attach a resume.(try to keep this also dynamic)
+Try To get good image of urself.
